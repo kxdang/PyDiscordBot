@@ -67,7 +67,6 @@ async def on_member_update(before, after):
 
     if before.game != None and after.game == None and gameStart.get(after.name): #GAME END
 
-    
 
         timeCalculation = str(math.ceil((calendar.timegm(time.gmtime()) - gameStart.get(after.name))/60)) ## Calculates time duration in minutes
 
