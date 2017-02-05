@@ -1,5 +1,5 @@
 # PyDiscordBot
-The BOT created is to organize members of a Discord channel using discord.py from Rapptz (https://github.com/Rapptz/discord.py)
+The BOT created is to organize members of a Discord channel using discord.py from [Rapptz](https://github.com/Rapptz/discord.py)
 
 # Features 
 * Recognize current state of users game in the server and redirects them to the appropriate voice channel
