@@ -5,8 +5,6 @@ The BOT created is to organize members of a Discord channel. Using
 * Recognize current state of users game in the server and redirects them to the appropriate voice channel
 * Game End Stats showing the duration of the game played and how long the game was played for
 - Clear function built in to clear all messages in current channel using the command !clear
-- Or minuses
-+ Or pluses
 
 
 ## Acknowledgements
