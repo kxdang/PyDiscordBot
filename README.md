@@ -1,5 +1,5 @@
 # PyDiscordBot
-The BOT created is to organize members of a Discord channel using discord.py from [Rapptz](https://github.com/Rapptz/discord.py). This bot is to prevent overlapping voice chats as some users play a team based game which includes CS:GO, LoL, Rocket League and Overwatch. By automatically moving the players to a seperate designated voice channel, it saves the time having to manually drag players and seperate them.
+The BOT created is to organize members of a Discord channel using discord.py from [Rapptz](https://github.com/Rapptz/discord.py). This bot is to prevent overlapping voice chats between competitive team based games which includes CS:GO, LoL, Rocket League and Overwatch. By automatically moving the players to a seperate designated voice channel, it saves the time having to manually drag players and seperate them.
 
 # Features 
 * BOT recognizes changes in game state of users and alerts channel what game they are playing and what voice channel the user will be moved to
