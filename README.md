@@ -7,9 +7,9 @@ The BOT created is to organize members of a Discord channel using discord.py fro
 - Clear function built in to clear all messages in current channel using the command `!clear`
 
 # Demo
-![Demo](https://i.imgur.com/Zw6rNib.gifv)
+![Demo](https://github.com/kxdang/PyDiscordBot/blob/master/Discord%20Demo.gif?raw=true)
 
-To view a larger (new tab) demo please click [here](https://i.imgur.com/Zw6rNib.gifv)
+To view a larger (new tab) demo please click [here](https://github.com/kxdang/PyDiscordBot/blob/master/Discord%20Demo.gif?raw=true)
 
 # Notes
 The BOT is currently being ran on a seperate server which keeps it on for 24/7. 
